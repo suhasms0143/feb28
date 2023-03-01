@@ -1,0 +1,14 @@
+# /bin bash
+VAR1 = 12345
+TEST = RVCEMCA
+#DOUBLE QUOTES
+echo " this is double quote $VAR! $TEST "
+
+
+#SINGLE QUOTE
+echo " this is single quote demo $VAR1 $TEST "
+
+#REVERSE QUOTE / back tick
+echo " this computer / laptop hostname
+echo $HOME
+

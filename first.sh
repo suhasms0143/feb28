@@ -4,3 +4,5 @@ cd pyprogs
 python first.py
 cd ..
 echo "job done"
+hello world
+
